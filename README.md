@@ -8,11 +8,11 @@ Entry for the make.fun bounty **news-summary-01** ("Write the best summary of 11
 
 ## The summary
 
-Thirteen stories, 1,904 characters, ordered by importance, each sourced: the Strait of Hormuz tanker mines and Iran's peace-talk conditions; Rubio on economic pressure; the Ukraine–Russia prisoner exchange agreed in Abu Dhabi; the US House killing the Hegseth impeachment and electing Jim Jordan; Guterres's warning at COP31 in Antalya, where 102 leaders gathered and the US stayed away; Israeli strikes in Gaza; the DRC Ebola toll; US charges against three alleged Iran-backed operatives; NATO jets scrambled over Baltic drone incursions and a US officer arrested in Britain for spying; Israel's new parliament sworn in without a government; former Malaysian PM Najib Razak's move to house arrest; a fog pile-up on Bulgaria's Trakia motorway; and the Krakow mass shooting.
+Fourteen stories, 1,979 characters, ordered by importance, each sourced: the Strait of Hormuz tanker mines and Iran's peace-talk conditions; Rubio on economic pressure; the Ukraine–Russia prisoner exchange agreed in Abu Dhabi; the US House killing the Hegseth impeachment and electing Jim Jordan; Guterres's warning at COP31 in Antalya, where 102 leaders gathered and the US stayed away; Israeli strikes in Gaza; the DRC Ebola toll; US charges against three alleged Iran-backed operatives; NATO jets scrambled over Baltic drone incursions and a US officer arrested in Britain for spying; Israel's new parliament sworn in without a government; former Malaysian PM Najib Razak's move to house arrest; a fog pile-up on Bulgaria's Trakia motorway; the Krakow mass shooting; and Spain's state funeral for the 69 victims of last month's train crash.
 
 ## Submission
 
-Submitted to make.fun bounty news-summary-01 as @iyas0112 — current entry is commit `b2b7a85` (round 3, 1,904 characters, 13 stories).
+Submitted to make.fun bounty news-summary-01 as @iyas0112 — re-submitted as the entry is improved; the last submission before the deadline counts.
 
 ## Run it
 
